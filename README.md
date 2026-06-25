@@ -6,30 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sainadh+%F0%9F%91%8B;AI+%2B+Full+Stack+Developer;Building+tools+that+think+%F0%9F%A4%96;Python+%7C+TypeScript+%7C+HTML+enthusiast;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 <br/>
-<!-- Social badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=SAINADH-24&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sainadhmaharaj-kambhampati-e24i19t5r">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SAINADH-24">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-  </a>
 </p>
 </div>
 ***🧠 About Me
-class Sainadh:
-    name       = "Sainadh Maharaj Kambhampati"
-    location   = "Hyderabad, India 🇮🇳"
-    role       = "AI + Full Stack Developer"
-    languages  = ["Python", "TypeScript", "HTML/CSS"]
-    interests  = ["AI Assistants", "Web Apps", "Automation", "EdTech"]
-    currently  = "Building intelligent tools that solve real problems 🚀"
-    linkedin   = "sainadhmaharaj-kambhampati-e24i19t5r"
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome together.")
+<div align="center">
+![Name](https://img.shields.io/badge/Name-Sainadh%20Maharaj-blue?style=for-the-badge&logo=person&logoColor=white)![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white)![Role](https://img.shields.io/badge/Role-AI%20%2B%20Full%20Stack%20Developer-purple?style=for-the-badge&logo=code&logoColor=white)![Status](https://img.shields.io/badge/Status-Building%20AI%20Tools%20🚀-success?style=for-the-badge)![Interests](https://img.shields.io/badge/Interests-AI%20%7C%20Web%20Apps%20%7C%20Automation-red?style=for-the-badge&logo=rocket&logoColor=white)![Open To](https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Opportunities-yellow?style=for-the-badge&logo=handshake&logoColor=black)</div>
 ***🚀 Projects I've Built
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -58,8 +41,17 @@ Languages
 </div>
 ***🌐 Connect With Me
 <div align="center">
-[!LinkedIn](https://www.linkedin.com/in/sainadhmaharaj-kambhampati-e24i19t5r)
-[!GitHub](https://github.com/SAINADH-24)
+<a href="https://www.linkedin.com/in/sainadhmaharaj-kambhampati-e24i19t5r">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/SAINADH-24">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sainadh@example.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 ***<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
