@@ -1,0 +1,6 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAINADH-24&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAINADH-24&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=SAINADH-24&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
